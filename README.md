@@ -1,1 +1,3 @@
-# ai_scratch
+# AI Scratch
+
+AI notes and code samples.
