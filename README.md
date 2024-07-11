@@ -17,7 +17,7 @@ When picking a course, ask yourself the following:
 
 
 | Course    | Description | Good For |  Effort | 
-| -------- | ------- |
+| -------- | ------- | ------- | ------- |
 | [fast.ai](https://www.fast.ai/)  | Foundational AI course, covers from basic to stable diffusion level.    | Learning AI / ML from scratch to recent tech. | ★★★ |
 | [Andrew Ng's Deep Learning](https://www.coursera.org/specializations/deep-learning#courses)  | Andrew Ng's classic foundational deep learning course.     | Learning foundations of deep learning.  | ★★★ |
 | [MS AI for beginners](https://github.com/microsoft/AI-For-Beginners/tree/main)   | Foundation MS AI courses. | Learning AI from scratch with PyTorch. | ★★★ |
